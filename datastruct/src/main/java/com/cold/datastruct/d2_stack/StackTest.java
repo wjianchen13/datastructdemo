@@ -2,7 +2,7 @@ package com.cold.datastruct.d2_stack;
 
 import java.util.Stack;
 
-public class Main {
+public class StackTest {
 
     public static void main(String[] args) {
 //        testStack();
